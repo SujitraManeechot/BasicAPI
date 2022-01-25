@@ -1,0 +1,28 @@
+ [{
+         "title": "Characteristics of cat",
+         "sub_title": "Characteristics is => The domestic cat has a smaller skull and shorter bones than the European wildcat.It averages about 46 cm (18 in) in head-to-body length and 23–25 cm (9–10 in) in height, with about 30 cm (12 in) long tails.",
+         "image_url": "https://cdn.pixabay.com/photo/2017/11/09/21/41/cat-2934720_960_720.jpg",
+         "detail": "แมวบ้านมีกะโหลกศีรษะที่เล็กกว่าและกระดูกสั้นกว่าแมวป่ายุโรป มีความยาวหัวถึงลำตัวโดยเฉลี่ย 46 ซม. (18 นิ้ว) และสูง 23-25 ​​ซม. (9-10 นิ้ว) โดยมี หางยาวประมาณ 30 ซม. (12 นิ้ว)"
+     },
+
+     {
+         "title": "Senses of cat",
+         "sub_title": "Senses is => Cats have excellent night vision and can see at only one-sixth the light level required for human vision.",
+         "image_url": "https://cdn.pixabay.com/photo/2021/10/19/10/56/cat-6723256_960_720.jpg",
+         "detail": "แมวมีวิสัยทัศน์ตอนกลางคืนที่ยอดเยี่ยมและสามารถมองเห็นได้เพียงหนึ่งในหกของระดับแสงที่จำเป็นสำหรับการมองเห็นของมนุษย์"
+     },
+
+     {
+         "title": "Evolution of cat",
+         "sub_title": "Senses is => The domestic cat is a member of the Felidae, a family that had a common ancestor about 10–15 million years ago.The genus Felis diverged from other Felidae around 6–7 million years ago.",
+         "image_url": "https://cdn.pixabay.com/photo/2021/11/02/10/46/cat-6762936_960_720.jpg",
+         "detail": "แมวบ้านเป็นสมาชิกของ Felidae ซึ่งเป็นครอบครัวที่มีบรรพบุรุษร่วมกันเมื่อประมาณ 10-15 ล้านปีก่อน สกุล Felis แตกต่างจาก Felidae อื่นเมื่อประมาณ 6-7 ล้านปีก่อน"
+     },
+
+     {
+         "title": "Animal Feed",
+         "sub_title": "High-protein, high-protein cutting fries that are super awesome at.",
+         "image_url": "https://img.my-best.in.th/press_component/item_part_images/4e20ce4d5a44451dcc3fbdd2e234afba.jpg?ixlib=rails-4.2.0&q=70&lossless=0&w=640&h=640&fit=clip",
+         "detail": "ต้องเน้นที่โปรตีนสูงไว้ก่อน เพราะโปรตีนจากสัตว์นั้นจะประกอบไปด้วยสารอาหารที่จำเป็นที่แมวไม่สามารถสร้างเองได้"
+     }
+ ]
